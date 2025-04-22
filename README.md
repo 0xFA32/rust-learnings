@@ -1,3 +1,3 @@
 # rust-learnings
 
-Various existing implementation for learning purpose
+Re-implementing existing solutions for learning purpose.
